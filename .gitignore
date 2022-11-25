@@ -1,4 +1,4 @@
-/.ccls-cache/ 
+*.ccls-cache/ 
 
 # Prerequisites
 *.d
@@ -33,10 +33,10 @@
 *.out
 *.app
 
-/.git/
-/.ccls-cache/
-.nix
-.replit
-main-debag
-/.vs/
-.json
+*.git/
+*.ccls-cache/
+*.nix
+*.replit
+*main-debag
+*.vs/
+*.json
